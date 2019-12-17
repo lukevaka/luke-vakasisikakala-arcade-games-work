@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ae3bde6-201a-443b-ab8e-e890333db6f7" name="Default Changelist" comment="testing changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 03 - Draw Using Functions/lab_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 03 - Draw Using Functions/lab_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 04 - Camel/lab_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 04 - Camel/lab_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.lab_03">
+  <component name="RunManager" selected="Python.lab_04">
     <configuration name="lab_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luke-vakasisikakala-arcade-games-work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,8 +89,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luke-vakasisikakala-arcade-games-work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 04 - Camel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 04 - Camel/lab_04.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab_04" />
         <item itemvalue="Python.lab_03" />
         <item itemvalue="Python.lab_02" />
         <item itemvalue="Python.lab_01" />
@@ -154,25 +176,29 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="321" y="455" width="356" height="169" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576546122550" />
-    <state width="936" height="296" key="GridCell.Tab.0.bottom" timestamp="1576607542763">
+    <state width="936" height="296" key="GridCell.Tab.0.bottom" timestamp="1576618873209">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576607542763" />
-    <state width="936" height="296" key="GridCell.Tab.0.center" timestamp="1576607542763">
+    <state width="936" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576618873209" />
+    <state width="936" height="296" key="GridCell.Tab.0.center" timestamp="1576618873209">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576607542763" />
-    <state width="936" height="296" key="GridCell.Tab.0.left" timestamp="1576607542763">
+    <state width="936" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576618873209" />
+    <state width="936" height="296" key="GridCell.Tab.0.left" timestamp="1576618873209">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576607542763" />
-    <state width="936" height="296" key="GridCell.Tab.0.right" timestamp="1576607542763">
+    <state width="936" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576618873209" />
+    <state width="936" height="296" key="GridCell.Tab.0.right" timestamp="1576618873209">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576607542763" />
+    <state width="936" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576618873209" />
     <state x="183" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1576603192565">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="183" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576603192565" />
+    <state x="143" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1576611461123">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="143" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1576611461123" />
   </component>
 </project>
