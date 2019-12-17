@@ -1,3 +1,38 @@
+import random
+
+
+def main():
+    print("Welcome to The Pacific!")
+    print("You have stolen a boat to make your way across the great Pacific Ocean in search of a new island.")
+    print("The natives want their boat back and are chasing you down! Survive your")
+    print("ocean trek and out boat the natives.\n")
+
+    distance = 0
+    thirst = 0
+    tiredness = 0
+    natives_distance = -20
+    canteen = 3
+    d_diff = (distance - natives_distance) - 10
+
+    done = False
+    while not done:
+        print('\nA. Drink from your canteen.')
+        print('B. Ahead moderate speed.')
+        print('C. Ahead full speed.')
+        print('D. Stop for the night.')
+        print('E. Status check.')
+        print('Q. Quit\n')
+
+        user_choice = input('What is your choice? ')
+        if user_choice.upper() == "Q":
+            done = True
+            print("The game has ended")
+        elif user_choice.upper() == "E":
+            print('Miles traveled: ' + str(distance))
+            print('Drinks in canteen: ' + str(canteen))
+            print('The natives are ' + str(d_diff) + ' miles away')
+        elif user_choice.upper() == "D":
+            tiredness = 0
             print('You are well rested')
             num = random.randrange(7, 14)
             natives_distance += num
