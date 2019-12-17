@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ae3bde6-201a-443b-ab8e-e890333db6f7" name="Default Changelist" comment="testing changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 01 - First Program/lab_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 01 - First Program/lab_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 02 - Draw a Picture/lab_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 02 - Draw a Picture/lab_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.lab_02">
     <configuration name="lab_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="luke-vakasisikakala-arcade-games-work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -47,8 +47,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lab_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="luke-vakasisikakala-arcade-games-work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab 02 - Draw a Picture" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab 02 - Draw a Picture/lab_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lab_02" />
         <item itemvalue="Python.lab_01" />
       </list>
     </recent_temporary>
@@ -110,22 +132,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="321" y="455" width="356" height="169" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576546122550" />
-    <state width="936" height="295" key="GridCell.Tab.0.bottom" timestamp="1576591334467">
+    <state width="1239" height="296" key="GridCell.Tab.0.bottom" timestamp="1576598269525">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576591334467" />
-    <state width="936" height="295" key="GridCell.Tab.0.center" timestamp="1576591334467">
+    <state width="1239" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1576598269525" />
+    <state width="1239" height="296" key="GridCell.Tab.0.center" timestamp="1576598269525">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576591334467" />
-    <state width="936" height="295" key="GridCell.Tab.0.left" timestamp="1576591334467">
+    <state width="1239" height="296" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1576598269525" />
+    <state width="1239" height="296" key="GridCell.Tab.0.left" timestamp="1576598269525">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576591334467" />
-    <state width="936" height="295" key="GridCell.Tab.0.right" timestamp="1576591334467">
+    <state width="1239" height="296" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1576598269525" />
+    <state width="1239" height="296" key="GridCell.Tab.0.right" timestamp="1576598269525">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="936" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576591334467" />
+    <state width="1239" height="296" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1576598269525" />
     <state x="183" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1576590656020">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
