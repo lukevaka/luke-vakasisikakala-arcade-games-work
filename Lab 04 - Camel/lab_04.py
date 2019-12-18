@@ -12,7 +12,7 @@ def main():
     tiredness = 0
     natives_distance = -20
     canteen = 3
-    d_diff = (distance - natives_distance) - 10
+    d_diff = 0
 
     done = False
     while not done:
@@ -22,6 +22,8 @@ def main():
         print('D. Stop for the night.')
         print('E. Status check.')
         print('Q. Quit\n')
+
+        d_diff = (distance - natives_distance) - 10
 
         user_choice = input('What is your choice? ')
         if user_choice.upper() == "Q":
@@ -58,7 +60,7 @@ def main():
             thirst += 1
             tiredness += 1
             num = random.randrange(7, 14)
-            natives_distance += num
+            d_diff += (distance - natives_distance)
             oasis = random.randrange(1, 20)
             chance = random.randrange(1, 20)
             if chance == oasis:
@@ -70,6 +72,7 @@ def main():
             if canteen != 0:
                 canteen -= 1
                 thirst = 0
+                print('You are no longer thirsty')
             else:
                 print('There is no more drank my guy')
         if thirst > 6:
@@ -89,6 +92,7 @@ def main():
             print('The natives are getting close!')
         if distance >= 200:
             print('You have won! Welcome to your new island!')
+            done = True
 
 
 main()
